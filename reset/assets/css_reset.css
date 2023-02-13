@@ -1,0 +1,22 @@
+header, body, footer, a, h1, h2, h3, ol, ul, li, div, span, input {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: normal;
+    text-decoration: none;
+    color: inherit;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+body {
+    line-height: 1.5;
+}
+
+img {
+    width: 100%;
+}

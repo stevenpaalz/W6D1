@@ -1,0 +1,14 @@
+.col {
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .col-small {
+    width: 33.33%;
+  }
+  
+  .col-big {
+    width: 66.66%;
+  }
+  
